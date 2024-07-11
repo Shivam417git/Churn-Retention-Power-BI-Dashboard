@@ -1,1 +1,3 @@
 # Churn-Retention-Power-BI-Dashboard
+Explore insights into customer churn dynamics with this comprehensive Power BI dashboard, developed during a virtual internship at PwC Switzerland. This project focuses on analyzing factors influencing customer churn in call center operations.
+The dashboard focuses on identifying customers who recently churned, exploring their service subscriptions (such as phone, internet, and tech support), and providing insights into their account details including tenure, contract type, billing preferences, and financial metrics like monthly charges and total expenditures. 
